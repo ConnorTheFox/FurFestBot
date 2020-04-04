@@ -11,7 +11,7 @@
     "infozip": "0.0.2",
     "is-empty": "^1.2.0",
     "is-reachable": "^2.3.3",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "mongoose": "^5.0.1",
     "nedb": "^1.8.0",
     "node-emoji": "^1.8.1",
